@@ -16,7 +16,11 @@ header{
     border-radius: 30px;
     margin-top: 20px;
 }
-
+@media screen and (max-width: 992px) {
+   img {
+      margin-top: 5px;
+    }
+  }
 
 
 .lightbox{
